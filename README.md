@@ -1,11 +1,9 @@
 # REACT-JS-LOGO
 <br>
 <img src="ReactJsAnimatedLogo.gif"> </img>
-<br>
 <a href="https://gurupremrajpal.github.io/REACT-JS-LOGO/REACT%20JS%20Logo/ReactLogoWithAnimation.html"> AnimatedLogo </a>
 <br>
 <img src="ReactjsLogo.png"> </img>
-<br>
 <a href="https://gurupremrajpal.github.io/REACT-JS-LOGO/REACT%20JS%20Logo/Reactjslogo.html"> Logo </a>
 
 # Tech Stack used - 
